@@ -2,6 +2,9 @@ These are the patch notes for update v1.5 of the tank bot!
 
 - New 'give up' button on guess prompts, you need to confirm this action by writing yes or no
 - Punishments if you try to press give up button on others prompt
+- Reworked intial command code, should be faster now
+- Added more shortened names to guess tanks
+- Added a secret tank that is rare to find
 - Added 40 new tanks:
 M18 Hellcat  
 M26 Pershing  
@@ -39,7 +42,7 @@ KV-1S
 Sheridan  
 SU-100  
 M-VI-Yoh  
-T95  
+???
 T49  
 Sheridan  
 T57 Heavy
